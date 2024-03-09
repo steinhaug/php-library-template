@@ -20,7 +20,7 @@ A template/boilerplate for PHP libraries.
 [gh-action]: https://github.com/chillerlan/php-library-template/actions/workflows/ci.yml?query=branch%3Amain
 [coverage-badge]: https://img.shields.io/codecov/c/github/chillerlan/php-library-template.svg?logo=codecov&logoColor=fff
 [coverage]: https://codecov.io/github/chillerlan/php-library-template
-[codacy-badge]: https://img.shields.io/codacy/grade/de971588f9a44f1a99e7bbd2a0737951?logo=codacy&logoColor=fff
+[codacy-badge]: https://img.shields.io/codacy/grade/917022229a8f432e9a15481ebf0c587c?logo=codacy&logoColor=fff
 [codacy]: https://app.codacy.com/gh/chillerlan/php-library-template/dashboard
 [downloads-badge]: https://img.shields.io/packagist/dt/chillerlan/php-library-template.svg?logo=packagist&logoColor=fff
 [downloads]: https://packagist.org/packages/chillerlan/php-library-template/stats
