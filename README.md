@@ -30,11 +30,13 @@ A template/boilerplate for PHP libraries.
 ### Features
 
 - [GitHub Actions](https://github.com/chillerlan/php-library-template/actions) runner
-- [Composer](https://getcomposer.org) package management
+- [Composer](https://getcomposer.org) dependency management
 - [PHPUnit](https://phpunit.de) unit tests
 - [PHAN](https://github.com/phan/phan) static analysis
 - [PHPCS](https://github.com/PHPCSStandards/PHP_CodeSniffer) coding standard analyzer
 - [PHPMD](https://phpmd.org) mess detector
+- [Codecov](https://codecov.io) code coverage analysis
+- [Codacy](https://www.codacy.com) code quality analysis
 - [phpDocumentor](https://www.phpdoc.org) auto generated API docs
 - [ReadTheDocs](https://readthedocs.org) documentation builder
 
