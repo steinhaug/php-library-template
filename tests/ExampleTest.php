@@ -23,6 +23,7 @@ class ExampleTest extends TestCase{
 		$obj = new Example;
 
 		$this::assertInstanceOf(Example::class, $obj);
+		$this::assertSame('hi', $obj->hello());
 	}
 
 }
