@@ -15,6 +15,12 @@
 			"homepage":"https://github.com/chillerlan/php-library-template/graphs/contributors"
 		}
 	],
+	"funding": [
+		{
+			"type": "Ko-Fi",
+			"url": "https://ko-fi.com/codemasher"
+		}
+	],
 	"homepage": "https://github.com/chillerlan/php-library-template",
 	"support": {
 		"docs": "https://php-library-template.readthedocs.io",
@@ -45,8 +51,9 @@
 		}
 	},
 	"scripts": {
-		"phpunit": "@php vendor/bin/phpunit",
-		"phan": "@php vendor/bin/phan"
+		"phan": "@php vendor/bin/phan",
+		"phpcs": "@php vendor/bin/phpcs",
+		"phpunit": "@php vendor/bin/phpunit"
 	},
 	"config": {
 		"lock": false,
