@@ -1,4 +1,5 @@
 {
+	"$schema": "https://getcomposer.org/schema.json",
 	"name": "chillerlan/php-library-template",
 	"description": "A PHP Library template/boilerplate.",
 	"license": "MIT",
