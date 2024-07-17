@@ -32,7 +32,7 @@ A template/boilerplate for PHP libraries.
 - [GitHub Actions](https://github.com/chillerlan/php-library-template/actions) runner
 - [Composer](https://getcomposer.org) dependency management
 - [PHPUnit](https://phpunit.de) unit tests
-- [PHAN](https://github.com/phan/phan) static analysis
+- [PHPStan](https://github.com/phpstan/phpstan) static analysis
 - [PHPCS](https://github.com/PHPCSStandards/PHP_CodeSniffer) coding standard analyzer
 - [PHPMD](https://phpmd.org) mess detector
 - [Codecov](https://codecov.io) code coverage analysis
