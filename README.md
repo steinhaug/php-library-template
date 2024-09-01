@@ -1,4 +1,4 @@
-# kista/php-library-template
+# steinhaug/php-library-template
 
 A template/boilerplate for PHP libraries.
 
