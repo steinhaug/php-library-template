@@ -3,7 +3,7 @@
  * Class Example
  *
  * @created      08.03.2024
- * @author       smiley <smiley@chillerlan.net>
+ * @author       steinhaug <steinhaug@gmail.com>
  * @copyright    2024 smiley
  * @license      MIT
  */

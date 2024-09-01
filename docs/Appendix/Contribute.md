@@ -3,7 +3,7 @@
 ## Questions and issues
 
 If you have a question about or a general issue while using this library,
-head over to the [discussions section](https://github.com/chillerlan/php-library-template/discussions),
+head over to the [discussions section](https://github.com/kista/php-library-template/discussions),
 create a new post and describe your issue as precise as possible, ideally add a code example (if applicable).
 Please don't just write "headline says all" because the reply will likely be similarly concise - help me (and others) help you!
 (just to clarify: the "general" does not mean general PHP support, in which case you're better off on
@@ -13,7 +13,7 @@ Please don't just write "headline says all" because the reply will likely be sim
 ## Bug reports
 
 So you found a bug or the library code is somehow misbehaving? That's great (well, not that great tho). In that case,
-please [open a bug report and FILL OUT THE ISSUE TEMPLATE](https://github.com/chillerlan/php-library-template/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D)
+please [open a bug report and FILL OUT THE ISSUE TEMPLATE](https://github.com/kista/php-library-template/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D)
 (i have to write that in all caps because nobody actually does it which usually leads to several avoidable follow-up questions that cost both of us precious time).
 Below an example of the bug report template (it's not that hard):
 
@@ -52,16 +52,16 @@ Add any other useful context about the problem.
 
 You want to contribute code to fix something or add a feature? Hey that's cool! However, there's a few things to keep in mind:
 
-- Please add a description of what the PR does or fixes and why it should be merged. If you're unsure, [open an issue](https://github.com/chillerlan/php-library-template/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BENHANCEMENT%5D) before to gather feedback.
+- Please add a description of what the PR does or fixes and why it should be merged. If you're unsure, [open an issue](https://github.com/kista/php-library-template/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BENHANCEMENT%5D) before to gather feedback.
 - Make sure your branch is up-to-date/even with the upstream branch you're submitting your PR to.
-- Please try to adhere to the [*loosely outlined* coding standards](https://github.com/chillerlan/php-qrcode/discussions/60), or, in case you're using [PHPStorm](https://www.jetbrains.com/phpstorm/), make sure you're using [the supplied IDE profile](https://github.com/chillerlan/php-library-template/tree/main/.idea).
+- Please try to adhere to the [*loosely outlined* coding standards](https://github.com/kista/php-qrcode/discussions/60), or, in case you're using [PHPStorm](https://www.jetbrains.com/phpstorm/), make sure you're using [the supplied IDE profile](https://github.com/kista/php-library-template/tree/main/.idea).
 
 
 ## Documentation
 
 The documentation is a work in progress - any suggestion and contribution is very welcome!
-If you have an addition or correction, feel free to open a [documentation issue](https://github.com/chillerlan/php-library-template/issues/new?assignees=&labels=docs&projects=&template=documentation.md&title=%5BDOCS%5D).
+If you have an addition or correction, feel free to open a [documentation issue](https://github.com/kista/php-library-template/issues/new?assignees=&labels=docs&projects=&template=documentation.md&title=%5BDOCS%5D).
 
 
-The API documentation is auto generated with [phpDocumentor](https://www.phpdoc.org/) from the docblocks [in the PHP sources](https://github.com/chillerlan/php-library-template/tree/main/src).
-The markdown sources for the [Read the Docs online manual](https://php-oauth.readthedocs.io) are located in the [/docs directory](https://github.com/chillerlan/php-library-template/tree/main/docs)
+The API documentation is auto generated with [phpDocumentor](https://www.phpdoc.org/) from the docblocks [in the PHP sources](https://github.com/kista/php-library-template/tree/main/src).
+The markdown sources for the [Read the Docs online manual](https://php-oauth.readthedocs.io) are located in the [/docs directory](https://github.com/kista/php-library-template/tree/main/docs)

@@ -4,7 +4,7 @@
 
 Import the main class(es) and include the autoloader (if necessary):
 ```php
-use chillerlan\LibraryTemplate\Example;
+use kista\LibraryTemplate\Example;
 
 require_once __DIR__.'/../vendor/autoload.php';
 ```

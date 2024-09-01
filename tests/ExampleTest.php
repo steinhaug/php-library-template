@@ -3,15 +3,15 @@
  * Class ExampleTest
  *
  * @created      08.03.2024
- * @author       smiley <smiley@chillerlan.net>
+ * @author       steinhaug <steinhaug@gmail.com>
  * @copyright    2024 smiley
  * @license      MIT
  */
 declare(strict_types=1);
 
-namespace chillerlan\LibraryTemplateTest;
+namespace kista\LibraryTemplateTest;
 
-use chillerlan\LibraryTemplate\Example;
+use kista\LibraryTemplate\Example;
 use PHPUnit\Framework\TestCase;
 
 /**

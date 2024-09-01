@@ -1,6 +1,6 @@
 {
 	"$schema": "https://getcomposer.org/schema.json",
-	"name": "chillerlan/php-library-template",
+	"name": "kista/php-library-template",
 	"description": "A PHP Library template/boilerplate.",
 	"license": "MIT",
 	"type": "library",
@@ -8,12 +8,12 @@
 	"authors": [
 		{
 			"name": "smiley",
-			"email": "smiley@chillerlan.net",
+			"email": "steinhaug@google.com",
 			"homepage": "https://github.com/codemasher"
 		},
 		{
 			"name": "Contributors",
-			"homepage":"https://github.com/chillerlan/php-library-template/graphs/contributors"
+			"homepage":"https://github.com/kista/php-library-template/graphs/contributors"
 		}
 	],
 	"funding": [
@@ -22,11 +22,11 @@
 			"url": "https://ko-fi.com/codemasher"
 		}
 	],
-	"homepage": "https://github.com/chillerlan/php-library-template",
+	"homepage": "https://github.com/kista/php-library-template",
 	"support": {
 		"docs": "https://php-library-template.readthedocs.io",
-		"issues": "https://github.com/chillerlan/php-library-template/issues",
-		"source": "https://github.com/chillerlan/php-library-template"
+		"issues": "https://github.com/kista/php-library-template/issues",
+		"source": "https://github.com/kista/php-library-template"
 	},
 	"minimum-stability": "stable",
 	"prefer-stable": true,

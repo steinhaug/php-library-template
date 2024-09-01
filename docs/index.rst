@@ -5,7 +5,7 @@
 PHP-OAuth Manual
 ================
 
-User manual for `chillerlan/php-library-template <https://github.com/chillerlan/php-library-template/>`__  [|version|]. Updated on |today|.
+User manual for `kista/php-library-template <https://github.com/kista/php-library-template/>`__  [|version|]. Updated on |today|.
 
 This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 

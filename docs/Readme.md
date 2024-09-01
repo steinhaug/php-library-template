@@ -7,7 +7,7 @@
 [![Documentation Status](https://readthedocs.org/projects/php-library-template/badge/?version=latest)](https://php-library-template.readthedocs.io/en/latest/?badge=latest)
 
 The user manual can be auto generated with [Sphinx](https://www.sphinx-doc.org) from the markdown sources contained in this directory, in order to upload it to [Read the Docs](https://readthedocs.org).
-The online documentation can be found at [php-library-template.readthedocs.io](https://php-library-template.readthedocs.io/en/main/) ([project page](https://readthedocs.org/projects/php-library-template/)), a local copy is built during CI and stored in the [`readthedocs` branch](https://github.com/chillerlan/php-library-template-core/tree/readthedocs).
+The online documentation can be found at [php-library-template.readthedocs.io](https://php-library-template.readthedocs.io/en/main/) ([project page](https://readthedocs.org/projects/php-library-template/)), a local copy is built during CI and stored in the [`readthedocs` branch](https://github.com/kista/php-library-template-core/tree/readthedocs).
 
 
 #### Run Sphinx locally
@@ -31,11 +31,11 @@ Follow these steps to create the user manual:
 
 ### API docs via phpDocumentor
 
-[![pages-build-deployment](https://github.com/chillerlan/php-library-template/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/chillerlan/php-library-template/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/kista/php-library-template/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/kista/php-library-template/actions/workflows/pages/pages-build-deployment)
 
 The API documentation can be auto generated with [phpDocumentor](https://www.phpdoc.org/).
-There is an [online version available](https://chillerlan.github.io/php-library-template/) via the [`gh-pages` branch](https://github.com/chillerlan/php-library-template/tree/gh-pages)
-that is [automatically deployed](https://github.com/chillerlan/php-library-template/deployments) on each push to main.
+There is an [online version available](https://kista.github.io/php-library-template/) via the [`gh-pages` branch](https://github.com/kista/php-library-template/tree/gh-pages)
+that is [automatically deployed](https://github.com/kista/php-library-template/deployments) on each push to main.
 
 
 #### Run phpDocumentor locally
