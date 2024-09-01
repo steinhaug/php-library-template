@@ -48,7 +48,7 @@ A template/boilerplate for PHP libraries.
 
 ## Documentation
 
-- The user manual is at https://php-library-template.readthedocs.io/ ([sources](https://github.com/kista/php-library-template/tree/main/docs))
+- The user manual is at https://php-library-template.readthedocs.io/ ([sources](https://github.com/steinhaug/php-library-template/tree/main/docs))
 - An API documentation created with [phpDocumentor](https://www.phpdoc.org/) can be found at https://kista.github.io/php-library-template/
 
 
