@@ -22,14 +22,14 @@ A template/boilerplate for PHP libraries.
 [coverage]: https://codecov.io/github/kista/php-library-template
 [codacy-badge]: https://img.shields.io/codacy/grade/917022229a8f432e9a15481ebf0c587c?logo=codacy&logoColor=fff
 [codacy]: https://app.codacy.com/gh/kista/php-library-template/dashboard
-[downloads-badge]: https://img.shields.io/packagist/dt/kista/php-library-template.svg?logo=packagist&logoColor=fff
-[downloads]: https://packagist.org/packages/kista/php-library-template/stats
+[downloads-badge]: https://img.shields.io/packagist/dt/steinhaug/php-library-template.svg?logo=packagist&logoColor=fff
+[downloads]: https://packagist.org/packages/steinhaug/php-library-template/stats
 
 ## Overview
 
 ### Features
 
-- [GitHub Actions](https://github.com/kista/php-library-template/actions) runner
+- [GitHub Actions](https://steinhaug.github.io/php-library-template/actions) runner
 - [Composer](https://getcomposer.org) dependency management
 - [PHPUnit](https://phpunit.de) unit tests
 - [PHPStan](https://github.com/phpstan/phpstan) static analysis
@@ -49,8 +49,7 @@ A template/boilerplate for PHP libraries.
 ## Documentation
 
 - The user manual is at https://php-library-template.readthedocs.io/ ([sources](https://github.com/steinhaug/php-library-template/tree/main/docs))
-- An API documentation created with [phpDocumentor](https://www.phpdoc.org/) can be found at https://kista.github.io/php-library-template/
-
+- An API documentation created with [phpDocumentor](https://www.phpdoc.org/) can be found at https://steinhaug.github.io/php-library-template/
 
 ## Disclaimer
 
